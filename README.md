@@ -9,8 +9,7 @@
 
 I'm currently pursuing Masters in Computer Science 🎓 from University of Hyderabad 🏛. I'm an avid learner who's always willing to work across technologies and domains 💡 I have an OCD of writing properly intended code with decent naming convention. ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Computer Vision and Web Development 🕸️ I am working as a mentor in some open-source events 🤓.
 
-[![Profile Visitors](http://hits.dwyl.com/imsahil007/imsahil007.svg)](http://hits.dwyl.com/imsahil007/imsahil007)
-
+![Profile Visitors](https://komarev.com/ghpvc/?username=imsahil007&color=blue)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/coder.gif" />
 
