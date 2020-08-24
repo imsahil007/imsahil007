@@ -7,7 +7,7 @@
 
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=imsahil007.imsahil007&style=flat-square&color=0088cc)
 
-I'm currently pursuing Masters in Computer Science 🎓 from University of Hyderabad 🏛. I'm an avid learner who's always willing to work across technologies and domains 💡 I have an OCD of writing properly intended code with decent naming convention. ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Computer Vision and Web Development 🕸️ I am working as a mentor in some open-source events 🤓.
+I'm currently pursuing Masters in Computer Science 🎓 from University of Hyderabad 🏛. I'm an avid learner who's always willing to work across technologies and domains 💡 I have an OCD of writing properly intended code with decent naming convention. ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Computer Vision and Web Development 🕸️ I am also working as a mentor & participant in various open-source projects 🤓.
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=imsahil007&color=blue)
 
