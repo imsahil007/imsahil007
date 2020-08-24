@@ -26,17 +26,17 @@ I'm currently pursuing Masters in Computer Science 🎓 from University of Hyder
 
 ### Languages and Tools:
 
-<code><img height="25" src="assets/cpp.png" alt="cpp"></code>
-<code><img height="25" src="assets/python.png" alt="python"></code>
-<code><img height="25" src="assets/html.png" alt="html"></code>
-<code><img height="25" src="assets/css.png" alt="css"></code>
-<code><img height="25" src="assets/javascript.png" alt="javascript"></code>
-<code><img height="25" src="assets/gatsby.png" alt="gatsby"></code>
-<code><img height="25" src="assets/graphql.png" alt="graphql"></code>
-<code><img height="25" src="assets/sql.png" alt="sql"></code>
-<code><img height="25" src="assets/git.png" alt="git"></code>
-<code><img height="25" src="assets/pytorch.svg" alt="pytorch"></code>
-<code><img height="25" src="assets/django.png" alt="django"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/cpp.png" alt="cpp"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/python.png" alt="python"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/html.png" alt="html"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/css.png" alt="css"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/javascript.png" alt="javascript"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/gatsby.png" alt="gatsby"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/graphql.png" alt="graphql"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/sql.png" alt="sql"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/git.png" alt="git"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/pytorch.svg" alt="pytorch"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/django.png" alt="django"></code>
 
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=imsahil007&show_icons=true&hide_border=true" />
