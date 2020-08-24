@@ -36,6 +36,7 @@ I'm currently pursuing Masters in Computer Science 🎓 from University of Hyder
 <code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/git.png" alt="git"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/pytorch.svg" alt="pytorch"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/django.png" alt="django"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/java.png" alt="java"></code>
 
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=imsahil007&show_icons=true&hide_border=true" />
