@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@kon_sahil-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kon_sahil/)
 [![Telegram Badge](https://img.shields.io/badge/-@imsahil007-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/imsahil007)
 
-### Glad to see you here! <img src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=imsahil007.imsahil007&style=flat-square&color=0088cc)
+### Glad to see you here! <img src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/emoji.gif" width="27px"> &nbsp; !
 
 I'm currently pursuing Masters in Computer Science 🎓 from University of Hyderabad 🏛. I'm an avid learner who's always willing to work across technologies and domains 💡 I have an OCD of writing properly intended code with decent naming convention. ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Computer Vision and Web Development 🕸️ I am also working as a mentor & participant in various open-source projects 🤓.
 
