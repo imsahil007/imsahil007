@@ -39,7 +39,7 @@ I'm currently pursuing Masters in Computer Science 🎓 from University of Hyder
 <code><img height="25" src="https://raw.githubusercontent.com/imsahil007/imsahil007/master/assets/java.png" alt="java"></code>
 
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=imsahil007&show_icons=true&hide_border=true" />
+<img alt="" src="https://github-readme-stats-imsahil007.vercel.app/api?username=imsahil007&show_icons=true&hide_border=true" />
 
 
 <div align="center">
