@@ -17,7 +17,7 @@ I'm currently pursuing Masters in Computer Science 🎓 from University of Hyder
 
 - 🛠 I’m currently working with Python, Django, <br /> Sphinx and Gatsby 💻.
 - 🚀 I have a knack of doing things in Computer Vision.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/imsahil007).
+- 👨 Most of my projects are available on [Github](https://github.com/imsahil007).
 - 💬 Ask me about anything [here](https://github.com/imsahil007/imsahil007/issues/)! I am happy to help.
 - 👾 Fun fact: \*me on Google* How do I create class in python? - Every other day
 - 📫 How to reach me: sahils.1997.s@gmail.com
